@@ -1,13 +1,7 @@
-### Hi there 👋
+# Hello there 👋 
 
-Here are some ideas to get you started:
+### I'm Akshit Tayade, 
 
-- 🔭 I’m currently working on ...Machine Learning
-- 🌱 I’m currently learning ...Machine Learning
-- 👯 I’m looking to collaborate on ...Machine Learning
-- 🤔 I’m looking for help with ...Machine Learning
-- 💬 Ask me about ...Machine Learning
-- 📫 How to reach me: ...Machine Learning
-- 😄 Pronouns: ...Machine Learning
-- ⚡ Fun fact: ...Machine Learning
--->
+A senior at K.J. Somaiya College of Engineering, Mumbai, pursuing bachelor’s degree in Electronics & Telecommunication Engineering. 👨🏻‍💻 
+
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
