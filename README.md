@@ -17,3 +17,6 @@ A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s de
 * Looking forward to take a Web Development Courses in future besides college curriculum. 
 * 🔜  Working on implementing AI on microcontrollers.
 * Learning editing photos by using Adobe Lighroom.
+
+### 🌱 Challenges that I’m currently challenging myself:
+Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
