@@ -20,6 +20,7 @@ A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s de
 
 ### 💻 Recent Projects
 * I worked on delivery successfull machine learning model in domain of medical analysis. This project was based on Malaria Detection, and documentation can be found [here](https://github.com/AkshitTayade/Malaria-Detection)
+* As a part of my Internship project, my team developed a unique way of playing childhood game-Hand cricket. We developed a bot which plays with user using Hand gesture movements, and detemines who winsQ Give it a try [here](https://github.com/AkshitTayade/Hand-Cricket-OpenCV)
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
