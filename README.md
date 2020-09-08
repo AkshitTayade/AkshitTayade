@@ -18,6 +18,9 @@ A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s de
 * 🔜  Working on implementing AI on microcontrollers.
 * Learning editing photos by using Adobe Lighroom.
 
+### 💻 Recent Projects
+* I worked on delivery successfull machine learning model in domain of medical analysis. This project was based on Malaria Detection, and documentation can be found [here](https://github.com/AkshitTayade/Malaria-Detection)
+
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
 
