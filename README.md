@@ -26,3 +26,12 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">  <br />
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"><br/>
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <br />
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=AkshitTayade&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
+
+
+
+
+
+
