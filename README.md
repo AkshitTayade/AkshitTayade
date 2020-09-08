@@ -4,7 +4,7 @@
 
 A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s degree in Electronics & Telecommunication Engineering. 👨🏻‍💻 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/akshittayade/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/akshittayade/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tayadeakshit28@yahoo.com)](mailto:tayadeakshit28@yahoo.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/akshittayade28/)](https://www.facebook.com/akshittayade28/)
 
