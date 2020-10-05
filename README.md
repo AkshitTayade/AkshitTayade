@@ -18,7 +18,7 @@ A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s de
 * 🔜  Working on implementing AI on microcontrollers.
 * Learning editing photos by using Adobe Lighroom.
 
-### 💻 Recent Projects
+### 💻 Recent Work
 * Wondering how Data Science can be used in the field of space? This project explains how Machine Learning models can predict on given weather and technical conditions, whether space shuttle or rockets will have successfull Launch or not. [Explore more](https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check)
 * I worked on delivery successfull machine learning model in domain of medical analysis. This project was based on Malaria Detection, and documentation can be found [here](https://github.com/AkshitTayade/Malaria-Detection)
 * As a part of my Internship project, my team developed a unique way of playing childhood game-Hand cricket. We developed a bot which plays with user using Hand gesture movements, and determines who wins! Give it a try [here](https://github.com/AkshitTayade/Hand-Cricket-OpenCV)
