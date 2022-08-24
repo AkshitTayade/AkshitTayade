@@ -2,7 +2,7 @@
 
 ### I'm Akshit Tayade, 
 
-A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s degree in Electronics & Telecommunication Engineering. 👨🏻‍💻 
+A grad student at Stevens Insitute of Technology, USA, pursuing Master’s degree in Data Science. 👨🏻‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/akshittayade/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tayadeakshit28@yahoo.com)](mailto:tayadeakshit28@yahoo.com)
@@ -11,15 +11,15 @@ A senior at K.J Somaiya College of Engineering, Mumbai, pursuing bachelor’s de
 <img align="right" alt="GIF" src="https://github.com/AkshitTayade/gif-for-readme/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 ### 💼  Things that I'm currently working on: 
-* Doing bachelor's degree in Electronics & Telecommunication Engineering
-* Taking a Machine Learning Online Course, and looking forward to build some real life project. 
+* Doing Master's degree in Data Science
+* Taking a GANs Course, and looking forward to build some real life project. 
 * Inquiring more about Deep Learning and Computer Vision.  
-* Looking forward to take a Web Development Courses in future besides college curriculum. 
 * 🔜  Working on implementing AI on microcontrollers.
 * Learning editing photos by using Adobe Lighroom.
 
 ### 💻 Recent Work
-* Wondering how Data Science can be used in the field of space? This project explains how Machine Learning models can predict on given weather and technical conditions, whether space shuttle or rockets will have successfull Launch or not. [Explore more](https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check)
+* Wondering how AI can be used in the field of Fitness? This project explains how Machine Learning, Deep Learning models can help correct body postures while you are working out, and provided detailed diet recommendation based on your profile. It also tracks your daily exercise and guides it to your goal with appealing visual charts. [Explore more]()
+* Discovered a new approach for clothing recommendation using Deep Learning. [Explore more]()
 * I worked on delivery successfull machine learning model in domain of medical analysis. This project was based on Malaria Detection, and documentation can be found [here](https://github.com/AkshitTayade/Malaria-Detection)
 * As a part of my Internship project, my team developed a unique way of playing childhood game-Hand cricket. We developed a bot which plays with user using Hand gesture movements, and determines who wins! Give it a try [here](https://github.com/AkshitTayade/Hand-Cricket-OpenCV)
 
