@@ -19,7 +19,7 @@ A grad student at Stevens Insitute of Technology, USA, pursuing Master’s degre
 
 ### 💻 Recent Work
 * Wondering how AI can be used in the field of Fitness? This project explains how Machine Learning, Deep Learning models can help correct body postures while you are working out, and provided detailed diet recommendation based on your profile. It also tracks your daily exercise and guides it to your goal with appealing visual charts. [Explore more]()
-* Discovered a new approach for clothing recommendation using Deep Learning. [Explore more]()
+* Discovered a new approach for clothing recommendation using Deep Learning. [Explore more](https://github.com/AkshitTayade/FashionIsta)
 * I worked on delivery successfull machine learning model in domain of medical analysis. This project was based on Malaria Detection, and documentation can be found [here](https://github.com/AkshitTayade/Malaria-Detection)
 * As a part of my Internship project, my team developed a unique way of playing childhood game-Hand cricket. We developed a bot which plays with user using Hand gesture movements, and determines who wins! Give it a try [here](https://github.com/AkshitTayade/Hand-Cricket-OpenCV)
 
